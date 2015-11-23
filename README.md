@@ -2,7 +2,12 @@
 
 Basic frontend template for projects using HTML, CSS, jQuery, and Bootstrap.
 
-Make sure to rename the repo folder, after you clone it, so that you don't confuse yourself later. Try renaming when you clone:
+First make sure you're in the correct starting dir:
+``` bash
+cd ~/dev
+```
+
+Next lets clone this down.  Since you might use this more than once, you should rename it.  Try renaming when you clone by replacing `your_project_name`:
 
 ``` bash
 git clone CLONE_URL your_project_name
