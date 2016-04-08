@@ -1,6 +1,6 @@
 console.log("Sanity Check: JS is working!");
 
-$(document).ready(function(){
+$(document).on('ready', function(){
 
   // code in here
 
