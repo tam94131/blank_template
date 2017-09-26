@@ -8,3 +8,38 @@ h1 {
   margin-top: 100px;
   text-align: center;
 }
+
+.shout {
+	text-transform: uppercase;
+}
+
+.success {
+	border-radius: 4px;
+	padding: 8px;
+	background-color: green;
+}
+
+.container {
+	width: 800px;
+	/* middle/center */
+}
+
+.half-width {
+	width: 50%;
+}
+
+.third-width {
+	width: 33%;
+}
+
+.img-circle {
+	border-radius: 100%;
+	width: 33%;
+}
+
+.img-thumbnail {
+	border-style: inset;
+	background-color: violet;
+	width: 100;
+	height: 100;
+}
